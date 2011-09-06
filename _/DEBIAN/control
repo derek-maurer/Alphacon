@@ -1,0 +1,10 @@
+Package: com.homeschooldev.alphacon
+Name: Alphacon
+Depends: mobilesubstrate
+Version: 0.0.1-40
+Architecture: iphoneos-arm
+Description: This tweak allows you to set the alpha (transparency) levels of all your application icons. By changing the value of the slider inside the settings app, you can change the transparency of your icons to nearly invisible or just barely transparent. This tweak isn't limited to setting the icons transparency levels, you can also completely hide the icon labels for your applications. Both of these features work in the switcher, home screen, dock, and folders. It even supports Folder Enhancer and sub folders. This tweak currently works the iPhone, iPod, and iPad running iOS 4.
+Maintainer: Home School Dev
+Author: Home School Dev
+Section: Tweaks
+Installed-Size: 200
